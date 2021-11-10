@@ -28,3 +28,7 @@ the python notebooks have been labelled respectively by its neural network model
 eg. conv1d_1layer.ipynb is a 1 layer Conv1D model 
 eg. conv1d_1layer_maxpool.ipynb is a 1 layer Conv1D model that has an additional maxpool layer 
 eg. conv1d_1layer_relu.ipynb is a 1 layer Conv1D model that has an additional ReLU layer 
+
+Question ii: Named_Entity_Recognition-LSTM-CNN-CRF-Tutorial.ipynb
+Question v: conv1d_1layer.ipynb, conv1d_1layer-relu.ipynb
+Question vi: the other notebooks
