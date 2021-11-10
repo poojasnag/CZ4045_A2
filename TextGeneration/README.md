@@ -106,6 +106,7 @@ models/     # Model files (.dat)
 data.py
 generate.py
 inference.py
+visualization.ipynb  # Notebook to plot graphs and run training script (on Colab using GPU)
 main.py
 model.py
 ```
