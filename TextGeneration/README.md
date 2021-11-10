@@ -20,7 +20,7 @@ unzip data_tensors.zip
 
 3. Pre-trained models
 
-The trained model files are too large to be pushed to github, only the default `FNN_adam_tied.dat` model can be found in the `models/` folder. For the rest of the models, they can be downloaded from [THIS GDRIVE](https://drive.google.com/drive/folders/1lTD7Hf5e-p-cNwkZy-egybdRKcE3aRn7). They shoudl be placed into the `models/` folder.
+The trained model files are too large to be pushed to github, only the default `FNN_adam_tied.dat` model can be found in the `models/` folder. For the rest of the models, they can be downloaded from [THIS GDRIVE](https://drive.google.com/drive/folders/1lTD7Hf5e-p-cNwkZy-egybdRKcE3aRn7). They are be placed into the `models/` folder. The notebook that includes all the visualisations can be found in this gdrive too.
 
 ## Running scripts
 
