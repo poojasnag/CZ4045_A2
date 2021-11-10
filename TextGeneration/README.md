@@ -9,6 +9,8 @@ The following python packages can be installed by:
 pip install -r requirements.txt
 ```
 
+The trained model files are too large to be pushed to github, only the default `FNN_adam_tied.dat` model can be found in the `models/` folder. For the rest of the models, they can be downloaded from [THIS GDRIVE](https://drive.google.com/drive/folders/1lTD7Hf5e-p-cNwkZy-egybdRKcE3aRn7). They shoudl be placed into the `models/` folder.
+
 ## Running scripts
 
 The scripts are suitable to run on both CPU and GPU. However, it is advised to train the model using GPU, using the `--cuda` flag.
