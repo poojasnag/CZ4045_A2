@@ -4,10 +4,21 @@ We have already included the dataset here in the `data/wikitext-2 folder`.
 
 ## Dependencies
 
+1. Python libraries
+
 The following python packages can be installed by:
 ```
 pip install -r requirements.txt
 ```
+
+2. Preprocessed data tensors
+
+The preprocessing of data for FNN model might take some time, therefore the saved preprocessed data tensors can be obtained by:
+```
+unzip data_tensors.zip
+```
+
+3. Pre-trained models
 
 The trained model files are too large to be pushed to github, only the default `FNN_adam_tied.dat` model can be found in the `models/` folder. For the rest of the models, they can be downloaded from [THIS GDRIVE](https://drive.google.com/drive/folders/1lTD7Hf5e-p-cNwkZy-egybdRKcE3aRn7). They shoudl be placed into the `models/` folder.
 
